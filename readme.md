@@ -16,4 +16,4 @@ Install python dependency
 pip install -r requirements.txt
 ```
 
-***Before run demo. Need to run assignment.ipynb to end of RAG Section to create vector store***
+***Before run demo.ipynb. Need to run assignment.ipynb to end of RAG Section to create vector store***
